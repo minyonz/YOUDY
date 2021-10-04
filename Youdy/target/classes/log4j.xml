@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.youdy.my">
+	<logger name="com.dp.ggomjirak">
 		<level value="info" />
 	</logger>
 	
